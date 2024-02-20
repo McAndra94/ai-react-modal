@@ -1,0 +1,2 @@
+import"react";var t=function(t){var l=t.onClose,o=t.title,e=void 0===o?"":o,a=t.content,n=void 0===a?"":a,s=t.icon,i=t.buttonLabel,d=void 0===i?"x":i,c=t.style,u=void 0===c?{}:c;return t.isOpen?h("div",{className:"modal",style:u.modal},h("div",{className:"modalBody",style:u.body},s&&h("img",{src:s,alt:"Modal Icon"}),h("h2",{style:u.title},e),h("div",null,n),h("button",{onClick:l,className:"closeButton",style:u.button},d))):null};export{t as default};
+//# sourceMappingURL=modal.js.map
