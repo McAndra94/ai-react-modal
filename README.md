@@ -14,7 +14,7 @@ npm install ai-react-modal
 
 ### Add to your React project
 
-Using the `Modal` component:
+Example for using the `Modal` component:
 
 ```js
 import React, { useState } from "react";
