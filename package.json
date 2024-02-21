@@ -2,7 +2,6 @@
 	"name": "ai-react-modal",
 	"version": "0.1.0",
 	"private": false,
-	"type": "module",
 	"description": "A simple customizable modal component for React.",
 	"source": "src/lib/modal.js",
 	"main": "dist/modal.js",
