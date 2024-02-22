@@ -1,6 +1,6 @@
 {
 	"name": "ai-react-modal",
-	"version": "0.1.7",
+	"version": "0.1.9",
 	"private": false,
 	"description": "A simple customizable modal component for React.",
 	"source": "./src/lib/modal.js",
@@ -37,7 +37,7 @@
 	"exports": {
 		".": {
 			"import": "./dist/modal.esm.js",
-			"require": "./dist/modal.cjs.js"
+			"require": "./dist/modal.js"
 		},
 		"./modal.css": "./dist/modal.css"
 	},

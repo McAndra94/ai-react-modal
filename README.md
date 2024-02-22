@@ -19,7 +19,7 @@ Example for using the `Modal` component:
 ```js
 import React, { useState } from "react";
 import Modal from "ai-react-modal";
-import "ai-react-modal/dist/modal.css";
+import "ai-react-modal/modal.css";
 
 function App() {
 	const [isOpen, setIsOpen] = useState(false);
@@ -38,7 +38,7 @@ function App() {
 				    body: { /* Custom styles for modal body */ },
 				    title: { /* Custom styles for title */ },
 				    button: { /* Custom styles for close button */ },
-				 }}
+				}}
 			/>
 		</div>
 	);

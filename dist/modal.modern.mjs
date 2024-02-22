@@ -1,2 +1,0 @@
-import"react";const t=({isOpen:t,onClose:l,title:o="",content:e="",icon:s,buttonLabel:a="x",style:n={}})=>t?h("div",{className:"modal",style:n.modal},h("div",{className:"modalBody",style:n.body},s&&h("img",{src:s,alt:"Modal Icon"}),h("h2",{style:n.title},o),h("div",null,e),h("button",{onClick:l,className:"closeButton",style:n.button},a))):null;export{t as default};
-//# sourceMappingURL=modal.modern.mjs.map

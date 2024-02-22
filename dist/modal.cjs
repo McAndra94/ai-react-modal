@@ -1,2 +1,0 @@
-require("react"),module.exports=function(l){var o=l.onClose,t=l.title,e=void 0===t?"":t,n=l.content,s=void 0===n?"":n,i=l.icon,a=l.buttonLabel,d=void 0===a?"x":a,c=l.style,u=void 0===c?{}:c;return l.isOpen?h("div",{className:"modal",style:u.modal},h("div",{className:"modalBody",style:u.body},i&&h("img",{src:i,alt:"Modal Icon"}),h("h2",{style:u.title},e),h("div",null,s),h("button",{onClick:o,className:"closeButton",style:u.button},d))):null};
-//# sourceMappingURL=modal.cjs.map
