@@ -73,7 +73,7 @@ Run the Jest tests using npm:
 
 ## Author
 
-Alex O.
+Alex I.
 
 ## License
 
